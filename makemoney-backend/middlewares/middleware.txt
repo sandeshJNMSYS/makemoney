@@ -1,0 +1,2 @@
+1.check body parameter not null or blank or undefiend
+2.check jwt key present in header

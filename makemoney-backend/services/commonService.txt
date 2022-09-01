@@ -1,0 +1,4 @@
+1.create validator using jwt
+2.get current asian date and time
+3.decrypt value using cryptojs module
+4.call third party api
